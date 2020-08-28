@@ -1,0 +1,18 @@
+Stellarium is a mod that include a whole new class to the game : The Magus Class
+With new weapons, tools that you can use to do a lot of things, new ores.
+Nearly every item in this mod can be crafted with various materials added by the mods.
+You can loot the three essences on all ennemies.
+WoF can loot the Magus Emblem.
+Every boss past hardmode (even pre-hardmode ones) loots 2 Magus Core Shards.
+
+This mod aims to adapt the entire X'e Plora universe (Made by me : "https://xeplora.fandom.com/fr/wiki/") into Terraria.
+For the moment, it's mostly a WIP, but a lot of things will come overtime.
+Things that will come in the near future :
+- Special powers
+- Other classes
+- A whole new underground biome
+- A crazy lot of new items/materials/weapons/tools
+
+Next TODO :
+- Other classes
+(Holes : EXP system, can unlock abilities (teleportation, destruction, elemental power))
